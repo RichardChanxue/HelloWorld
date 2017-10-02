@@ -1,0 +1,7 @@
+C:\Users\雪刚\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\雪刚\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\雪刚\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\雪刚\source\repos\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\雪刚\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\雪刚\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\雪刚\source\repos\Demo\Demo\obj\Debug\Demo.pdb
